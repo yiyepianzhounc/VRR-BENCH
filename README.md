@@ -63,7 +63,7 @@ Key observations after experiments:
 **1. Clone & install dependencies**
 
 ```bash
-git clone [https://github.com/yiyepianzhounc/VRR-BENCH](https://github.com/yiyepianzhounc/VRR-BENCH.git)
+git clone https://github.com/yiyepianzhounc/VRR-BENCH.git
 ```
 
 **2. Prepare data**
