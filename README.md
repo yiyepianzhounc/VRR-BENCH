@@ -46,10 +46,10 @@ We collected \~460 CAPTCHA-style images from major providers (e.g., Geetest), ea
 
 ## 📊 Evaluation Results
 
-<div align="center">  
+
   ![level_final](https://github.com/user-attachments/assets/07a284f5-9ade-4f70-8279-cdef502b338e)
-  <p><i>Figure:</i> Accuracy (%) of six MLLMs on Non-Relational (a) vs. Relational (b) tasks across three difficulty levels.</p>  
-</div>
+  Figure:</i> Accuracy (%) of six MLLMs on Non-Relational (a) vs. Relational (b) tasks across three difficulty levels.
+
 
 Key observations after experiments:
 
