@@ -17,7 +17,7 @@ This repository contains all data, model-calling notebooks. Dive in to explore V
 
 ## 📊 Dataset Overview
 
-We collected \~460 CAPTCHA-style images from major providers (e.g., Geetest), each paired with a carefully designed question requiring either single-object attribute reasoning or explicit inter-object relational reasoning.
+We collected ~280 CAPTCHA-style images from major providers (e.g., Geetest), each paired with a carefully designed question requiring either single-object attribute reasoning or explicit inter-object relational reasoning.
 
 | Subset          | Task Type        | Levels (L1/L2/L3) | # Images | # Q\&A Pairs |
 | --------------- | ---------------- | ----------------- | -------- | ------------ |
