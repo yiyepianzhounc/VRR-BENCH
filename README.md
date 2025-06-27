@@ -90,7 +90,7 @@ Open the notebook in `models/` for your target MLLM, fill in your API key, and e
 
 For questions or collaboration, please reach out to:
 
-* **Haizhou Wang** ([haizhou.wang@scu.edu.cn](mailto:haizhou.wang@scu.edu.cn))
+* **Haizhou Wang** ([whzh.nc@scu.edu.cn](mailto:whzh.nc@scu.edu.cn))
 * **Yifan Wang** ([sanqin@stu.scu.edu.cn](mailto:sanqin@stu.scu.edu.cn))
 
 ---
