@@ -13,6 +13,7 @@ Our benchmark reveals that, while MLLMs perform well on simple attribute queries
 This repository contains all data, model-calling notebooks. Dive in to explore VRR-BENCH, run your favorite MLLM, and help push the frontier of visual reasoning!
 
 🤗 **Note**
+
 Due to GitHub’s file count limits, the full VRR-BENCH image set is hosted on Hugging Face. You can download it here: [VRR-BENCH](https://huggingface.co/datasets/Ivy0529/VRR-BENCH)
 
 ---
